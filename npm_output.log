@@ -1,0 +1,10 @@
+
+> music-flashcards@0.0.0 dev
+> vite --port 3000
+
+12:21:22 PM [vite] (client) Forced re-optimization of dependencies
+
+  VITE v7.2.0  ready in 598 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: use --host to expose
